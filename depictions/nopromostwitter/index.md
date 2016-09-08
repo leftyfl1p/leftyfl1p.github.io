@@ -8,7 +8,6 @@ screenshots: false
 identifier: com.leftyfl1p.nopromostwitter
 screenshotCount: 0
 description: >
-  Removes all forms of bullshit in twitter.app.
-changelog: >
-  - **1.0.1:** Added support for 9.3
+  Removes all forms of bullshit in twitter.app. Confirmed working for Twitter.app version 6.61.1
+#changelog: >
 ---
