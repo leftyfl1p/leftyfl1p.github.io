@@ -1,0 +1,11 @@
+title: Alex's Repo
+website: leftyfl1p.github.io
+url: https://leftyfl1p.github.io/
+twitter_username: leftyfl1p
+github_username: leftyfl1p
+reddit_username: /u/leftyfl1p
+include: ['depictions']
+markdown: kramdown
+sass:
+  sass_dir: _assets
+  style: compressed

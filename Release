@@ -1,0 +1,8 @@
+Origin: Alex's Repo
+Label: Alex's Repo
+Suite: stable
+Version: 1.0
+Codename: POTATO
+Architectures: iphoneos-arm
+Components: main
+Description: The ultimate cydia source. 🐗

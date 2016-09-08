@@ -1,0 +1,86 @@
+---
+layout: default
+---
+
+<script src="{{ site.baseurl }}/js/ios_version_check.js"></script>
+<script type="text/javascript">
+var el = document.getElementById('screenshots');
+$('document').ready(function(){
+    //add screenshots
+    var screenshotCount;
+    {% if page.screenshots == true and page.screenshotCount %}
+        screenshotCount = {{page.screenshotCount}} < 4 ? {{page.screenshotCount}} : 4;
+    {% else %}
+        screenshotCount = 0;
+    {% endif %}
+    for (var i = 0; i < screenshotCount; i++) {
+        document.getElementById('screenshots').innerHTML += "<a href='./screenshots'> <img style='max-width: 40%; height:auto;' src='./img/" + (i+1) + ".png'></a>";
+    };
+
+    {% if page.min and page.max %}
+        var res = ios_version_check("{{ page.min }}", "{{ page.max }}","unsupported",function(message,isBad) {
+            document.getElementById('compatibility').innerHTML += "<li>" + message + "</li>";
+            document.getElementById('compatibility').className += isBad? "alert-danger" : "alert-success";
+            document.getElementById('compatibility').style.display = "block";
+        });
+    {% endif %}
+
+});
+
+</script>
+
+<main id="content">
+    {% if page.identifier and site.url %}
+        <ul id="iOSNotCydia">
+            <li>
+                <a href="cydia://url/https://cydia.saurik.com/api/share#?source={{ site.url }}&package={{ page.identifier }}" role="button"><span class="iconBig">{% include icon-cydia.svg %}</span>Open in Cydia</a>
+            </li>
+        </ul>
+
+        <ul id="notiOS">
+            <li>
+                Visit this page on an iOS device to open this package in Cydia.
+            </li>
+        </ul>
+
+        <ul id="compatibility" style="text-align: center;"> </ul>
+    {% endif %}
+    {% if page.description %}
+        <h2>Description</h2>
+        <ul>
+            <li>
+                {{ page.description | markdownify }}
+            </li>
+            {% if page.screenshots == true %}
+                <li id="screenshots" style="text-align: center;"></li>
+                {% if page.screenshotCount > 4 %}
+                    <li>
+                        <a href="./screenshots" role="button">View all screenshots</a>
+                    </li>
+                {% endif %}
+            {% endif %}
+
+        </ul>
+    {% endif %}
+    {% if page.changelog %}
+        <h2>Changelog</h2>
+        {{ page.changelog | markdownify }}
+    {% endif %}
+
+    {% if site.twitter_username %}
+        <ul>
+            <li>
+                <a href="//twitter.com/{{ site.twitter_username }}" role="button"><span class="iconBig">{% include icon-twitter.svg %}</span> @{{ site.twitter_username }} on Twitter</a>
+            </li>
+
+        </ul>
+    {% endif %}
+
+    {% if page.sourcecode %}
+        <ul>
+            <li>
+                <a href="//{{ page.sourcecode }}" role="button"><span class="iconBig">{% include icon-github.svg %}</span> Source on GitHub</a>
+            </li>
+
+        </ul>
+    {% endif %}

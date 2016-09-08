@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<script type="text/javascript">
+var el = document.getElementById('screenshots');
+$('document').ready(function(){
+    var screenshotCount;
+    {% if page.screenshotCount %}
+    screenshotCount = {{page.screenshotCount}} < 4 ? {{page.screenshotCount}} : 4;
+    {% else %}
+    screenshotCount = 0;
+    {% endif %}
+    for (var i = 0; i < screenshotCount; i++) {
+        document.getElementById('screenshots').innerHTML += "<img style='max-width: 90%; height:auto;' src='./img/" + (i+1) + ".png'>";
+    };
+});
+
+</script>
+
+<main id="content">
+    <div style="display:block; text-align:center;">
+         <ul>
+            <li id="screenshots"></li>
+        </ul>
+    </div>

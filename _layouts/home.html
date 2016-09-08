@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<main id="content">
+  {% if page.welcome %}  
+    <div class="center">
+      <ul>
+        <li>
+          <p>{{ page.welcome }}</p>
+        </li>
+      </ul>
+    </div>
+  {% endif %}
+
+  {% if page.description %}
+    <ul>
+      <li>
+        {{ page.description | markdownify}}
+      </li>
+    </ul>
+  {% endif %}
+
+
+  <!--- to add repository to cydia -->
+  <ul id="iOS">
+    <li>
+      <a href="cydia://url/https://cydia.saurik.com/api/share#?source={{ site.url }}" role="button"><span class="iconBig">{% include icon-cydia.svg %}</span>Add repo to Cydia</a>
+    </li>
+  </ul>
+
+  <ul id="notiOS">
+    <li>
+      You can add my repo by visiting this page on your iOS device or by adding the URL manually.
+    </li>
+  </ul>

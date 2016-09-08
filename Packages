@@ -1,0 +1,178 @@
+Package: com.leftyfl1p.advertidfaker
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p
+Installed-Size: 252
+Depends: mobilesubstrate
+Filename: debs/com.leftyfl1p.advertidfaker_0.0.1_iphoneos-arm.deb
+Size: 5922
+MD5sum: e0288e853fbd1bfe2281096d67ac8cd6
+SHA1: adb886096a32030024bdfb33d3fdd985aeddd7b6
+SHA256: 0ddfc88ed03a8ca7ee72e73fcd90a09df4bc37bcb1d0ac02a3387317a8733715
+Section: Tweaks
+Description: Fake your Advertising Identifier. Run aditfake in console to regenerate.
+Author: leftyfl1p
+Name: AdvertIDFaker
+
+Package: com.leftyfl1p.autoanswer
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.leftyfl1p.autoanswer_1.0_iphoneos-arm.deb
+Size: 3704
+MD5sum: 0fa94b804fe25d338d8bc10886b2bcae
+SHA1: 76ea205bbe97d994cbbb486d4fecbdeff8ab4727
+SHA256: ae91067756a92dc986d7fbe688b78f3980ddb2d2dff5578ca4b44e495c8ab205
+Section: Tweaks
+Description: Auto answer all FaceTime and audio calls.
+Author: leftyfl1p
+Name: AutoAnswer9
+
+Package: com.leftyfl1p.darkcc
+Version: 0.0.1-12+debug
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.leftyfl1p.darkcc_0.0.1-12+debug_iphoneos-arm.deb
+Size: 4680
+MD5sum: 51c932dd8630cbc70917fb4ba612c8a3
+SHA1: e39c07f86d518c1b97d340c69b621621752b386c
+SHA256: b4a46f3e617567d87c3a1e49af147c4b81d4d8d4ac71a494bee7f92a36a487d0
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: leftyfl1p
+Name: DarkCC
+
+Package: com.leftyfl1p.nopromostwitter
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p <leftyfl1p@icloud.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.leftyfl1p.nopromostwitter_1.0.1_iphoneos-arm.deb
+Size: 6374
+MD5sum: df28d8d3f696249f2f25880c083fc880
+SHA1: b52c23946967c0f5d6fce25f06d79a7fd45bbd2d
+SHA256: 45c85dbdae7ea1b44ec89abac1b282d83fc951ae7b681704969b7d74eaad9b9f
+Section: Tweaks
+Description: Removes all forms of bullshit in twitter.app. @leftyfl1p for updates. Confirmed working on twitter 6.60.
+Author: leftyfl1p <leftyfl1p@icloud.com>
+Depiction: https://leftyfl1p.github.io/depictions/nopromostwitter
+Name: NoPromosTwitter
+
+Package: com.leftyfl1p.pogobatterysaver
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p <leftyfl1p@icloud.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.leftyfl1p.pogobatterysaver_0.0.1_iphoneos-arm.deb
+Size: 5724
+MD5sum: 6e05b1fa4c79341c81bd52ae1047baf0
+SHA1: f7d92c663dfe732f1bb87f49faa6aadaad7167b3
+SHA256: 05b671aae4dc9776c8aea094d53eebb4679df7d4519a3a3a30cf46e3ebb92f27
+Section: Tweaks
+Description: Adds back the battery saver functionality in Pokemon Go. Add a background image to /Library/Application Support/PoGoScreensaver/screensaver.png (case sensitive & create folders if you need to) to show when you put the device upside down.
+Author: leftyfl1p <leftyfl1p@icloud.com>
+Name: PoGoBatterySaver
+
+Package: com.leftyfl1p.polusbluetoothfix
+Version: 0.0.1-5+debug
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.leftyfl1p.polusbluetoothfix_0.0.1-5+debug_iphoneos-arm.deb
+Size: 4466
+MD5sum: f97d184ccbc207716244eb976296fd1e
+SHA1: 8814084dec10a6a684ac674a82f7ae9e3c6d70e5
+SHA256: 9653ddfaf67c8186cf3ab876b8d45ee74526d44ac192ec08d8d6a4cb9b3ff8af
+Section: Tweaks
+Description: Fix polus not remembering if bluetooth is on after respring.
+Author: leftyfl1p
+Name: PolusBluetoothFix
+
+Package: com.leftyfl1p.raisetoanswer
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: debs/com.leftyfl1p.raisetoanswer_1.0_iphoneos-arm.deb
+Size: 4840
+MD5sum: 890090f2b32403b92c16e1f344b2cc2b
+SHA1: 13ffafd81eb3028e1ff2fc126c8f09a29dc809dd
+SHA256: defd19e4123e2ffd8b385df017f56b5ef285ea7bb084608ab15a63617bab18c0
+Section: Tweaks
+Description: Fork of MohammadAG’s RaiseToCall. Raise your phone to answer phone calls. Tested on 9.0.2.
+Author: leftyfl1p
+Name: RaiseToAnswer9
+
+Package: com.leftyfl1p.rubbersb
+Version: 0.0.1-16+debug
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.leftyfl1p.rubbersb_0.0.1-16+debug_iphoneos-arm.deb
+Size: 3906
+MD5sum: 8e81aad7c159e75f1a8133fcfb449cf4
+SHA1: 2e82a4ad8a3e218105a77be61cddf1e2ca1bb765
+SHA256: f82d8f8ab2cdcbce461f3b35079ecc456e8e9c9b70861c9c701eecd622b49951
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: leftyfl1p
+Name: RubberSB
+
+Package: com.leftyfl1p.smartbatterypercentage
+Version: 1.0
+Architecture: iphoneos-arm
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.leftyfl1p.smartbatterypercentage_1.0_iphoneos-arm.deb
+Size: 8826
+MD5sum: 62719a82a1b0a073777b95e096a7a522
+SHA1: a78d60aaa018bdad3dd4c9bda859489c3510e14c
+SHA256: 6b83fffc85a7cf34cc201fce8f601c74d0773f6d06bbbdde3e26b49bbd14bddc
+Section: Tweaks
+Description: Combine the battery % of the device and the Apple Smart Battery Case.
+Author: leftyfl1p <leftyfl1p@icloud.com>
+Depiction: https://leftyfl1p.github.io/depictions/smartbatterypercentage
+Name: SmartBatteryPercentage
+
+Package: com.leftyfl1p.snoutreachability
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p
+Installed-Size: 1484
+Depends: mobilesubstrate
+Filename: debs/com.leftyfl1p.snoutreachability_0.0.1_iphoneos-arm.deb
+Size: 1413080
+MD5sum: 3682fb6e6826eb868e1e1a1cb577ff5e
+SHA1: a14315ab774726d71a75ec21a36931419f55cda1
+SHA256: 94dd20cedef8434f3725ca853b92fca7213e07da445e986c9736a75f08579ac3
+Section: Tweaks
+Description: Take a closer look at that meme
+Author: leftyfl1p
+Name: SnoutReachability
+
+Package: com.leftyfl1p.springround
+Version: 0.0.1-551+debug
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p <leftyfl1p@me.com>
+Installed-Size: 616
+Depends: mobilesubstrate, libactivator, ws.hbang.common
+Filename: debs/com.leftyfl1p.springround_0.0.1-551+debug_iphoneos-arm.deb
+Size: 76318
+MD5sum: efb1e31dd352a76300354251c120d315
+SHA1: 6212eaa1ec345259a11b5222ed49fc505cfe9348
+SHA256: 99f41ca099ad91872245bf403109adb1dec59367b292b003ffd7cb7a8c2268b9
+Section: Tweaks
+Description: Homescreen icons in any app!
+Author: leftyfl1p <leftyfl1p@me.com>
+Depiction: https://leftyfl1p.github.io/depictions/?p=com.leftyfl1p.springround
+Name: RiftBoard
+
