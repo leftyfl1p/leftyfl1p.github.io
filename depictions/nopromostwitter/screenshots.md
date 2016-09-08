@@ -1,5 +1,5 @@
 ---
 layout: screenshot
-title: Example
+title: NoPromosTwitter
 screenshotCount: 1
 ---

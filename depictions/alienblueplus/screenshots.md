@@ -1,5 +1,5 @@
 ---
 layout: screenshot
-title: Example
+title: AlienBlue++
 screenshotCount: 3
 ---

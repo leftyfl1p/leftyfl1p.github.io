@@ -1,5 +1,5 @@
 ---
 layout: screenshot
-title: Example
+title: SmartBatteryPercentage
 screenshotCount: 1
 ---
