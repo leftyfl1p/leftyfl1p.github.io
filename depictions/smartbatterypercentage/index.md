@@ -4,7 +4,7 @@ title: SmartBatteryPercentage
 min: 9.0
 max: "9.3.3"
 devices: iPhone, iPod, and iPad
-screenshots: false
+screenshots: true
 identifier: com.leftyfl1p.smartbatterypercentage
 screenshotCount: 1
 description: >
