@@ -1,3 +1,19 @@
+Package: com.leftyfl1p.activatorfix
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.leftyfl1p.activatorfix_0.0.1_iphoneos-arm.deb
+Size: 5646
+MD5sum: 98847e75c28534d55868d93cf91f9335
+SHA1: 7fe2131b03cdebd7c626f455923c74053b52219d
+SHA256: 8094f337f07e5f38a1227457dc810dcc19150ffe56a44407160bb9883b87e733
+Section: Tweaks
+Description: Temporary fix for activator single home button press on 9.3. Assign listeners to the new home button fix section.
+Author: leftyfl1p
+Name: ActivatorHomeButton933Fix
+
 Package: com.leftyfl1p.advertidfaker
 Version: 0.0.1
 Architecture: iphoneos-arm
