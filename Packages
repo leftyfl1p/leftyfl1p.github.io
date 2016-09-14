@@ -176,19 +176,19 @@ Author: leftyfl1p
 Name: SnoutReachability
 
 Package: com.leftyfl1p.springround
-Version: 0.0.1-551+debug
+Version: 0.0.1-615+debug
 Architecture: iphoneos-arm
-Maintainer: leftyfl1p <leftyfl1p@me.com>
-Installed-Size: 616
+Maintainer: leftyfl1p <leftyfl1p@icloud.com>
+Installed-Size: 860
 Depends: mobilesubstrate, libactivator, ws.hbang.common
-Filename: debs/com.leftyfl1p.springround_0.0.1-551+debug_iphoneos-arm.deb
-Size: 76318
-MD5sum: efb1e31dd352a76300354251c120d315
-SHA1: 6212eaa1ec345259a11b5222ed49fc505cfe9348
-SHA256: 99f41ca099ad91872245bf403109adb1dec59367b292b003ffd7cb7a8c2268b9
+Filename: debs/com.leftyfl1p.springround_0.0.1-615+debug_iphoneos-arm.deb
+Size: 88630
+MD5sum: 81a125bfb5b6cdaea244b6062fd6ca40
+SHA1: 9ec57b62040eadda45c2d3bce8ce2e912fc62dc3
+SHA256: e4b71ce4a8e88cd773d1fe513117bce0eeef5f968dd92d58252eaea787f9d446
 Section: Tweaks
 Description: Homescreen icons in any app!
-Author: leftyfl1p <leftyfl1p@me.com>
-Depiction: https://leftyfl1p.github.io/depictions/?p=com.leftyfl1p.springround
+Author: leftyfl1p <leftyfl1p@icloud.com>
+Depiction: https://leftyfl1p.github.io/depictions/riftboard
 Name: RiftBoard
 
