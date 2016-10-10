@@ -12,6 +12,9 @@ description: >
   couple minor changes, mostly in preferences. Still looking for translators. This tweak puts springboard
   above your current app. Configure in settings.
 changelog: >
+  - **735**: Fixed single press home button. So you don't have to use the fix on my repo anymore for this tweak at least.
+  Free copy to anyone who emails me if it works for you.
+
   - **687:** Added the following translations:
     - \- Korean
     - \- Maltese
