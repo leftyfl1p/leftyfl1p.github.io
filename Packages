@@ -69,13 +69,14 @@ Maintainer: leftyfl1p <leftyfl1p@icloud.com>
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: debs/com.leftyfl1p.nopromosappstore_1.0_iphoneos-arm.deb
-Size: 4194
-MD5sum: 5996fac6f34443778d9ba3f35047c046
-SHA1: 9131de5b2f1c302c73f17ecf8d29d443a972b0b8
-SHA256: b1a119eb61f7234a3bd47a3c1cc884e849a1e6e544fa0885310d7a8cb5dbd46d
+Size: 4224
+MD5sum: 972d880a7f792676e7b2350b03cf5df2
+SHA1: 3b475e4b0560d5ac4d2d127a162d8f83dbfbdd2e
+SHA256: 54cb8aa1c1283cc01fd94f7b83c285fa92d14401af0a53faacbd4b15664eb3b0
 Section: Tweaks
 Description: Removes Ads in AppStore searches
 Author: leftyfl1p <leftyfl1p@icloud.com>
+Depiction: https://leftyfl1p.github.io/depictions/nopromosappstore/
 Name: NoPromosAppStore
 
 Package: com.leftyfl1p.nopromostwitter
