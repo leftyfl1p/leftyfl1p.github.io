@@ -144,6 +144,22 @@ Description: Fork of MohammadAG’s RaiseToCall. Raise your phone to answer phon
 Author: leftyfl1p
 Name: RaiseToAnswer9
 
+Package: com.leftyfl1p.reflex
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p <leftyfl1p@icloud.com>
+Installed-Size: 1284
+Depends: mobilesubstrate, libactivator
+Filename: debs/com.leftyfl1p.reflex_1.0_iphoneos-arm.deb
+Size: 316528
+MD5sum: 42c9d5385d99c64f5936ef9fa8b6180a
+SHA1: 968686bcb644cc18c71a617804fe6805cd0f1eb5
+SHA256: 20f45c658ddc2e20ed0f8c90e0724edcdf7312b1f78779704ab5512f01444596
+Section: Tweaks
+Description: Another best FLEX manager. Configure with Activator. If you want something done right, do it yourself.
+Author: leftyfl1p <leftyfl1p@icloud.com>
+Name: reFLEX
+
 Package: com.leftyfl1p.rubbersb
 Version: 0.0.1-16+debug
 Architecture: iphoneos-arm
