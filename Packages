@@ -47,16 +47,16 @@ Author: leftyfl1p
 Name: AutoAnswer9
 
 Package: com.leftyfl1p.bloodtype
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: leftyfl1p <leftyfl1p@icloud.com>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: debs/com.leftyfl1p.bloodtype_0.0.1_iphoneos-arm.deb
-Size: 2910
-MD5sum: 01a855eec0784edb22fea80c15891244
-SHA1: 551d478e05ab9cefe4e7ec905de572ea9ee8adb3
-SHA256: 5472a0ce68f36a585ad40440df3d646f5e47a5e383416177d54983c396596116
+Filename: debs/com.leftyfl1p.bloodtype_0.0.2_iphoneos-arm.deb
+Size: 2912
+MD5sum: e853be5b95d46a944dc429b655742aa8
+SHA1: 4bb62c1c858b33c78b3476d0f134315ad80914e8
+SHA256: a515d9c5e87740358cf60fdc9e75850f0d276ea9dcbd497d38f3236afb431e29
 Section: Tweaks
 Description: Replaces "B" on the keyboard with 🅱️
 Author: leftyfl1p <leftyfl1p@icloud.com>
