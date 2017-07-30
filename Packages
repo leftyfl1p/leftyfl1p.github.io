@@ -46,6 +46,22 @@ Description: Auto answer all FaceTime and audio calls.
 Author: leftyfl1p
 Name: AutoAnswer9
 
+Package: com.leftyfl1p.bloodtype
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p <leftyfl1p@icloud.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.leftyfl1p.bloodtype_0.0.1_iphoneos-arm.deb
+Size: 2910
+MD5sum: 01a855eec0784edb22fea80c15891244
+SHA1: 551d478e05ab9cefe4e7ec905de572ea9ee8adb3
+SHA256: 5472a0ce68f36a585ad40440df3d646f5e47a5e383416177d54983c396596116
+Section: Tweaks
+Description: Replaces "B" on the keyboard with 🅱️
+Author: leftyfl1p <leftyfl1p@icloud.com>
+Name: BloodType
+
 Package: com.leftyfl1p.darkcc
 Version: 0.0.1-12+debug
 Architecture: iphoneos-arm
