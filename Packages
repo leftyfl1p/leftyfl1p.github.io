@@ -193,16 +193,16 @@ Author: leftyfl1p
 Name: RubberSB
 
 Package: com.leftyfl1p.scrollback
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: leftyfl1p <leftyfl1p@icloud.com>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: debs/com.leftyfl1p.scrollback_1.0_iphoneos-arm.deb
-Size: 4398
-MD5sum: 4edc5ce9de8c940be24ba23408558c4a
-SHA1: 30627fe627ae4e14a751c1a09b8528e6056c5a24
-SHA256: cc2de988f424bbc36c85d48a933e662aba21f4ae0e318b6533597db52d583fa4
+Filename: debs/com.leftyfl1p.scrollback_1.0.1_iphoneos-arm.deb
+Size: 4446
+MD5sum: 1959710b12329e2577af28a3c9e30cdd
+SHA1: 453cb3c01b493d54261f45ff446fda6ae2de9fe2
+SHA256: 2b9f5fdd7b20a633fba6671296c1c28c583bd8352cc8228a90fe0dd4d85ac488
 Section: Tweaks
 Description: Status bar tap to scroll back to last location
 Author: leftyfl1p <leftyfl1p@icloud.com>
