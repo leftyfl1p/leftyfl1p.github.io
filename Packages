@@ -62,22 +62,6 @@ Description: Replaces "B" on the keyboard with 🅱️
 Author: leftyfl1p <leftyfl1p@icloud.com>
 Name: BloodType
 
-Package: com.leftyfl1p.carplaydependencies
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: leftyfl1p
-Depends: mobilesubstrate, applist, com.rpetrich.rocketbootstrap, preferenceloader, ch.ringwald.hidsupport, ws.hbang.common
-Conflicts: com.eason.carplay
-Filename: debs/com.leftyfl1p.carplaydependencies_1.0_iphoneos-arm.deb
-Size: 782
-MD5sum: 31167e547a59c695f8f1434c5391bc45
-SHA1: 1e1fe5c640fff1b07fea08a2a2c9b69a5be2d0a0
-SHA256: 3c65e0d1a535cde6cfacb7f10085597f9b9ede5fb99362bfb22de1e64236d59f
-Section: Tweaks
-Description: This is an empty package that installs the required dependencies for CarBridge. If you don't know what this is, don't install it. Safe to remove after installation.
-Author: leftyfl1p <leftyfl1p@icloud.com>
-Name: CarBridge Dependencies
-
 Package: com.leftyfl1p.darkcc
 Version: 0.0.1-12+debug
 Architecture: iphoneos-arm
