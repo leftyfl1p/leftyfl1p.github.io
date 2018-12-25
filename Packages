@@ -95,23 +95,6 @@ Description: Custom Suggested Apps on iOS 11
 Author: leftyfl1p <leftyfl1p@icloud.com>
 Name: Empyreal 2
 
-Package: com.leftyfl1p.nopromosappstore
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: leftyfl1p <leftyfl1p@icloud.com>
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: debs/com.leftyfl1p.nopromosappstore_1.0.1_iphoneos-arm.deb
-Size: 2966
-MD5sum: 9e8d125a62407c6099ecc9cb7485d3ae
-SHA1: 41694021ac9b2dbfb96f4e19e57a997acd498ee2
-SHA256: f83875604300a977baf7efba30e5899c5985a21106b9c852a2b1f27b4ef77d75
-Section: Tweaks
-Description: Removes Ads in AppStore searches
-Author: leftyfl1p <leftyfl1p@icloud.com>
-Depiction: https://leftyfl1p.github.io/depictions/nopromosappstore/
-Name: NoPromosAppStore
-
 Package: com.leftyfl1p.nopromostwitter
 Version: 1.0.1
 Architecture: iphoneos-arm
