@@ -78,17 +78,34 @@ Description: An awesome MobileSubstrate tweak!
 Author: leftyfl1p
 Name: DarkCC
 
-Package: com.leftyfl1p.nopromosappstore
+Package: com.leftyfl1p.empyreal2
 Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p <leftyfl1p@icloud.com>
+Installed-Size: 176
+Depends: mobilesubstrate, applist, firmware (>= 11.0)
+Conflicts: com.leftyfl1p.empyreal
+Filename: debs/com.leftyfl1p.empyreal2_1.0_iphoneos-arm.deb
+Size: 21912
+MD5sum: c061af12b6923a5143c49ba8dac37286
+SHA1: 121a9c95898b6d29e945eed19c88109edcdf5ce9
+SHA256: 48d136bab9b86ba82881be9c130c9ec63e48e22a22a8de07ab3b6860db420843
+Section: Tweaks
+Description: Custom Suggested Apps on iOS 11
+Author: leftyfl1p <leftyfl1p@icloud.com>
+Name: Empyreal 2
+
+Package: com.leftyfl1p.nopromosappstore
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: leftyfl1p <leftyfl1p@icloud.com>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: debs/com.leftyfl1p.nopromosappstore_1.0_iphoneos-arm.deb
-Size: 4224
-MD5sum: 972d880a7f792676e7b2350b03cf5df2
-SHA1: 3b475e4b0560d5ac4d2d127a162d8f83dbfbdd2e
-SHA256: 54cb8aa1c1283cc01fd94f7b83c285fa92d14401af0a53faacbd4b15664eb3b0
+Filename: debs/com.leftyfl1p.nopromosappstore_1.0.1_iphoneos-arm.deb
+Size: 2966
+MD5sum: 9e8d125a62407c6099ecc9cb7485d3ae
+SHA1: 41694021ac9b2dbfb96f4e19e57a997acd498ee2
+SHA256: f83875604300a977baf7efba30e5899c5985a21106b9c852a2b1f27b4ef77d75
 Section: Tweaks
 Description: Removes Ads in AppStore searches
 Author: leftyfl1p <leftyfl1p@icloud.com>
@@ -239,4 +256,21 @@ Section: Tweaks
 Description: Take a closer look at that meme
 Author: leftyfl1p
 Name: SnoutReachability
+
+Package: org.thebigboss.elite
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p <leftyfl1p@icloud.com>
+Installed-Size: 428
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/org.thebigboss.elite_1.5_iphoneos-arm.deb
+Size: 22076
+MD5sum: 9c997488328f0925732455d2afebd2de
+SHA1: 7b34fab77c71a515dd6c4f51c5d311f7cc1cd6ed
+SHA256: 6c1661954df13099cdf5f3f3ef10def1183cd281eaf248bbe80210275fd50e8d
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: leftyfl1p <leftyfl1p@icloud.com>
+Depiction: https://leftyfl1p.github.io/depictions/?p=com.leftyfl1p.elite
+Name: ColorCodedLogs
 
