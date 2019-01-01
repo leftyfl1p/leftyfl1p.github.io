@@ -1,0 +1,13 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{263, 148}",
+    "itemCornerRadius": 10,
+    "banners": [
+      {
+        "url" : "https://leftyfl1p.github.io/sileo-banner/com.leftyfl1p.carplay.png",
+        "title": "CarBridge",
+        "package": "com.leftyfl1p.carplay",
+        "hideShadow": true
+      }
+    ]
+  }

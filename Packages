@@ -62,6 +62,21 @@ Description: Replaces "B" on the keyboard with 🅱️
 Author: leftyfl1p <leftyfl1p@icloud.com>
 Name: BloodType
 
+Package: com.leftyfl1p.cydiahigherinstall
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p <leftyfl1p@icloud.com>
+Depends: mobilesubstrate
+Filename: debs/com.leftyfl1p.cydiahigherinstall_0.1_iphoneos-arm.deb
+Size: 3608
+MD5sum: 6dc50c17b19f0f3559ed5d72b3aa701b
+SHA1: cea754b2cf9e7b405ef0abdfb11e7f77dec81214
+SHA256: 19640090171dd4cc88cf46110cf4c3f18e0a43f1cb13bd84eddac0723241e6db
+Section: Tweaks (useless)
+Description: Buy Cydia Store packages on unsupported versions
+Author: leftyfl1p <leftyfl1p@icloud.com>
+Name: CydiaHigherInstall
+
 Package: com.leftyfl1p.darkcc
 Version: 0.0.1-12+debug
 Architecture: iphoneos-arm
@@ -261,16 +276,18 @@ Package: org.thebigboss.elite
 Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: leftyfl1p <leftyfl1p@icloud.com>
-Installed-Size: 428
+Installed-Size: 332
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: debs/org.thebigboss.elite_1.5_iphoneos-arm.deb
-Size: 22076
-MD5sum: 9c997488328f0925732455d2afebd2de
-SHA1: 7b34fab77c71a515dd6c4f51c5d311f7cc1cd6ed
-SHA256: 6c1661954df13099cdf5f3f3ef10def1183cd281eaf248bbe80210275fd50e8d
+Size: 22006
+MD5sum: 6117970c34f6840423920912175015a3
+SHA1: 5e7523e3c3a18a86c083f7aac210f2096df027aa
+SHA256: a500b30ebf37f5140a4810bd0a6b938eddbc98c7bafd3cb0dd73d301a6639989
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: leftyfl1p <leftyfl1p@icloud.com>
 Depiction: https://leftyfl1p.github.io/depictions/?p=com.leftyfl1p.elite
+Icon: https://leftyfl1p.github.io/sileo-icon/org.thebigboss.elite.png
 Name: ColorCodedLogs
+SileoDepiction: https://leftyfl1p.github.io/sileo-depiction/org.thebigboss.elite.json
 

@@ -1,0 +1,118 @@
+{
+    "minVersion": "0.1",
+    "tabs": [
+      {
+        "tabname": "Details",
+        "views": [
+          {
+            "itemCornerRadius": 4,
+            "itemSize": "{187.5, 333.5}",
+            "screenshots": [
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://camo.githubusercontent.com/1abad6d76179b1ea89e9abc813fb838815fe5ee1/687474703a2f2f696d6775722e636f6d2f34586848706b662e706e67"
+              }
+            ],
+            "class": "DepictionScreenshotsView"
+          },
+          {
+            "markdown": "An updated version of the tweak \"prime\" based on a /r/TweakBounty request.\n\nChanges recent call-log title color based on type of call:\n- <b style=\"color:#24579C\">Blue</b> for incoming calls\n- <b style=\"color:#007D00\">Green</b> for outgoing calls\n- <b style=\"color:#DA0000\">Red</b> for missed calls\n\nColors are configurable in the settings app.\n\nThis project is [open source](https://github.com/leftyfl1p/Elite).",
+            "useSpacing": true,
+            "class": "DepictionMarkdownView"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+          {
+            "title": "Metadata",
+            "class": "DepictionHeaderView"
+          },
+          {
+            "title": "Latest Version",
+            "text": "1.5",
+            "class": "DepictionTableTextView"
+          },
+          {
+            "title": "Last Updated",
+            "text": "2018-12-24",
+            "class": "DepictionTableTextView"
+          },
+          {
+            "title": "Compatibility",
+            "text": "iOS 7 - 11",
+            "class": "DepictionTableTextView"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+          {
+            "title": "Social Links",
+            "class": "DepictionHeaderView"
+          },
+          {
+            "title": "GitHub",
+            "action": "https://github.com/leftyfl1p",
+            "class": "DepictionTableButtonView"
+          },
+          {
+            "title": "Twitter",
+            "action": "https://twitter.com/leftyfl1p",
+            "class": "DepictionTableButtonView"
+          },
+          {
+            "title": "Reddit",
+            "action": "https://reddit.com/u/leftyfl1p",
+            "class": "DepictionTableButtonView"
+          },
+
+          {
+            "spacing": 8,
+            "class": "DepictionSpacerView"
+          }
+        ],
+        "class": "DepictionStackView"
+      },
+      {
+        "tabname": "Changelog",
+        "views": [
+          {
+            "title": "Version 1.5",
+            "useBoldText": true,
+            "useBottomMargin": true,
+            "class": "DepictionSubheaderView"
+          },
+          {
+            "markdown": "Added support for iOS 11",
+            "useSpacing": false,
+            "class": "DepictionMarkdownView"
+          },
+          {
+            "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released December 24th 2018<\/small>",
+            "useRawFormat": true,
+            "class": "DepictionMarkdownView"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+          {
+            "title": "Version 1.4",
+            "useBoldText": true,
+            "useBottomMargin": true,
+            "class": "DepictionSubheaderView"
+          },
+          {
+            "markdown": "Added support for iOS 10",
+            "useSpacing": false,
+            "class": "DepictionMarkdownView"
+          },
+          {
+            "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released February 22th 2017<\/small>",
+            "useRawFormat": true,
+            "class": "DepictionMarkdownView"
+          }
+        ],
+        "class": "DepictionStackView"
+      }
+    ],
+    "class": "DepictionTabView"
+  }
