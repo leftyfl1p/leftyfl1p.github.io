@@ -16,7 +16,7 @@
             "class": "DepictionScreenshotsView"
           },
           {
-            "markdown": "An updated version of the tweak \"prime\" based on a /r/TweakBounty request.\n\nChanges recent call-log title color based on type of call:\n- <small style=\"color:#24579C\">Blue</small> for incoming calls\n- <small style=\"color:#007D00\">Green</small> for outgoing calls\n- <small style=\"color:#DA0000\">Red</small> for missed calls\n\nColors are configurable in the settings app.\n\nThis project is [open source](https://github.com/leftyfl1p/ColorCodedLogs).",
+            "markdown": "An updated version of the tweak \"prime\" based on a /r/TweakBounty request.\n\nChanges recent call-log title color based on type of call:\n- Blue for incoming calls\n- Green for outgoing calls\n- Red for missed calls\n\nColors are configurable in the settings app.\n\nThis project is [open source](https://github.com/leftyfl1p/ColorCodedLogs).",
             "useSpacing": true,
             "class": "DepictionMarkdownView"
           },
