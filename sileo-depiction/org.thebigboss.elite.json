@@ -16,7 +16,7 @@
             "class": "DepictionScreenshotsView"
           },
           {
-            "markdown": "An updated version of the tweak \"prime\" based on a /r/TweakBounty request.\n\nChanges recent call-log title color based on type of call:\n- <b style=\"color:#24579C\">Blue</b> for incoming calls\n- <b style=\"color:#007D00\">Green</b> for outgoing calls\n- <b style=\"color:#DA0000\">Red</b> for missed calls\n\nColors are configurable in the settings app.\n\nThis project is [open source](https://github.com/leftyfl1p/Elite).",
+            "markdown": "An updated version of the tweak \"prime\" based on a /r/TweakBounty request.\n\nChanges recent call-log title color based on type of call:\n- <small style=\"color:#24579C\">Blue</small> for incoming calls\n- <small style=\"color:#007D00\">Green</small> for outgoing calls\n- <small style=\"color:#DA0000\">Red</small> for missed calls\n\nColors are configurable in the settings app.\n\nThis project is [open source](https://github.com/leftyfl1p/ColorCodedLogs).",
             "useSpacing": true,
             "class": "DepictionMarkdownView"
           },
@@ -29,17 +29,17 @@
           },
           {
             "title": "Latest Version",
-            "text": "1.5",
+            "text": "1.6",
             "class": "DepictionTableTextView"
           },
           {
             "title": "Last Updated",
-            "text": "2018-12-24",
+            "text": "2020-6-1",
             "class": "DepictionTableTextView"
           },
           {
             "title": "Compatibility",
-            "text": "iOS 7 - 11",
+            "text": "iOS 7 - 13",
             "class": "DepictionTableTextView"
           },
           {
@@ -75,6 +75,25 @@
       {
         "tabname": "Changelog",
         "views": [
+          {
+            "title": "Version 1.6",
+            "useBoldText": true,
+            "useBottomMargin": true,
+            "class": "DepictionSubheaderView"
+          },
+          {
+            "markdown": "Added support for iOS 13 and arm64e",
+            "useSpacing": false,
+            "class": "DepictionMarkdownView"
+          },
+          {
+            "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released June 1st 2020<\/small>",
+            "useRawFormat": true,
+            "class": "DepictionMarkdownView"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
           {
             "title": "Version 1.5",
             "useBoldText": true,
